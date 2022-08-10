@@ -5,7 +5,7 @@ I'm not able to share their source code and show it to the public, but you can p
 Links to selected projects are in the section below.
 <br/><br/>
 
-![Empty public repositorys](https://github.com/MateuszPalosz/MateuszPalosz/blob/main/publicrepository.png)
+![Empty public repositorys](https://github.com/MateuszPalosz/MateuszPalosz/blob/main/emptypublicprojects.png)
 <br/><br/>
 
 ## Selected projects
